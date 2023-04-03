@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Prabuddhika96
-- 👀 I’m interested in Web Dev/Java
+- 👀 I’m interested in Web Dev / Java / C / C++
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me [email]prabuddhika1996@gmail.com
