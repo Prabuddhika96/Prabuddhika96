@@ -30,7 +30,7 @@ You can click the Preview link to take a look at your changes.
 </a> 
 
 <a href="https://github.com/Prabuddhika96" target="_blank">
-  <img align="left" src="https://komarev.com/ghpvc/?username=Viranga-pasi" alt="page views" />
+  <img align="left" src="https://komarev.com/ghpvc/?username=Prabuddhika96" alt="page views" />
 </a>
 <a href="https://github.com/Prabuddhika96?tab=followers" target="_blank">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Prabuddhika96?color=green&logo=github">
