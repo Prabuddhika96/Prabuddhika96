@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Say Hello 💕
-<a href="https://twitter.com/Darshana1997" target="_blank">
+<a href="[https://twitter.com/Darshana1997](https://twitter.com/PMayurapaksha)" target="_blank">
   <img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
 <a href="https://www.linkedin.com/in/prabuddhika-mayurapaksha-79499a1b8/" target="_blank">
@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Viranga-pasi?color=green&logo=github">
 </a><br><br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thamara1997&theme=blue-green)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prabuddhika96&theme=blue-green)](https://git.io/streak-stats)
 
 ### 🛠️ languages and tools:
 
