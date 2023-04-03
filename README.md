@@ -4,6 +4,12 @@
 - 💞️ I’m looking to collaborate on New Projects
 - 📫 How to reach me [email]prabuddhika1996@gmail.com
 
+<hr>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prabuddhika96&show_icons=true&theme=gruvbox)[![GitHub Streak](https://streak-stats.demolab.com/?user=Prabuddhika96&theme=dark)](https://git.io/streak-stats)<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabuddhika96&theme=dracula&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+
+<hr>
+
 <!---
 Prabuddhika96/Prabuddhika96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,20 +19,20 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/Darshana1997" target="_blank">
   <img align="left" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25>
 </a> 
-<a href="https://www.linkedin.com/in/darshana-thamara-ba123023b/" target="_blank">
+<a href="https://www.linkedin.com/in/prabuddhika-mayurapaksha-79499a1b8/" target="_blank">
   <img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
 </a> 
-<a href="https://www.facebook.com/darshana.thamara/" target="_blank">
+<a href="https://www.facebook.com/prabuddhika.mayurapaksha.35" target="_blank">
   <img align="left" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" height=25>
 </a> 
-<a href="https://www.instagram.com/darshanathamara97/" target="_blank">
+<a href="https://www.instagram.com/prabu__96/" target="_blank">
   <img align="left" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagramk&logoColor=white" height=25>
 </a> 
 
-<a href="https://github.com/thamara1997" target="_blank">
+<a href="https://github.com/Prabuddhika96" target="_blank">
   <img align="left" src="https://komarev.com/ghpvc/?username=Viranga-pasi" alt="page views" />
 </a>
-<a href="https://github.com/thamara1997?tab=followers" target="_blank">
+<a href="https://github.com/Prabuddhika96?tab=followers" target="_blank">
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Viranga-pasi?color=green&logo=github">
 </a><br><br>
 
