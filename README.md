@@ -36,7 +36,7 @@ You can click the Preview link to take a look at your changes.
   <img alt="GitHub followers" src="https://img.shields.io/github/followers/Viranga-pasi?color=green&logo=github">
 </a><br><br>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prabuddhika96&theme=blue-green)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prabuddhika96&theme=blue-green)](https://git.io/streak-stats) -->
 
 ### 🛠️ languages and tools:
 
