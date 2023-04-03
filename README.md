@@ -33,7 +33,7 @@ You can click the Preview link to take a look at your changes.
   <img align="left" src="https://komarev.com/ghpvc/?username=Viranga-pasi" alt="page views" />
 </a>
 <a href="https://github.com/Prabuddhika96?tab=followers" target="_blank">
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Viranga-pasi?color=green&logo=github">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/Prabuddhika96?color=green&logo=github">
 </a><br><br>
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prabuddhika96&theme=blue-green)](https://git.io/streak-stats) -->
