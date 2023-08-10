@@ -26,7 +26,7 @@
  
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
-- 💼 Any freelance work? Do reach, [email](mailto:virangapasindu4@gmail.com) 😊
+- 💼 Any freelance work? Do reach, [email](mailto:prabuddhika1996@gmail.com) 😊
 - 💬 Ask me about anything, I am happy to help;
 <hr>
 
